@@ -20,6 +20,8 @@ npm install
 ## Executando aplicação local 
 
 ```
+npm run dev
+
 node index.js
 ```
 
